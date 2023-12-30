@@ -1,1 +1,1 @@
-# git_python_projects_visual
+# Python projects on Github - visualization
